@@ -1,0 +1,120 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+/* a:visited {
+	color: crimson;
+} */
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+h1,h2,h3,h4,h5{
+	color: crimson;
+	text-align: center;
+}
+
+.color {
+	padding: 10px;
+	background-color: orange;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+.place {
+	padding: 10px;
+	background-color: orange;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+.ritual {
+	padding: 10px;
+	background-color: orange;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+.listFlex {
+	display: flex;
+	margin-top: -30px;
+	justify-content: center;
+	
+}
+
+.container-two {
+	justify-content: center;
+	border-bottom: 2px solid orange;
+
+}
+
+.flexBox {
+	display: flex;
+	justify-content: center;
+	border-bottom: 2px solid orange;
+
+}
+
+.container-three {
+	justify-content: center;
+	border-bottom: 2px solid orange;
+}
+
+.container-four {
+	justify-content:center;
+	border-bottom: 2px solid orange;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+#rest {
+	padding: 10px;
+	background-color: orange;
+	border-radius: 10px;
+	font-weight: bolder;
+}
+
+.restaurant {
+	border: solid #ccc;
+	width: 100%;
+	margin: 25px auto;
+	box-sizing: border-box;
+	box-shadow: 3px 3px 5px 0px;
+
+}
+
+#random {
+	color:blueviolet;
+	text-align: center;
+	font-weight: bolder;
+}
